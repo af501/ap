@@ -12,8 +12,11 @@ https://af501.github.io/ap/
 ## resource
 
 http://www.canva.com 
-udemy.com
+
+http://intel.udemy.com
+
 bootstrap carousel example
+
 
 
 

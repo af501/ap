@@ -67,6 +67,11 @@ body {
     letter-spacing: -.05rem;
   }
   
+  #mission {
+    padding: 4rem;
+    margin-bottom: 2rem;
+    background-color: #92C7CF;
+  }
   
   /* RESPONSIVE CSS
   -------------------------------------------------- */

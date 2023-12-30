@@ -9,4 +9,12 @@ https://af501.github.io/ap/
 * contact
 
 
+## resource
+
+http://www.canva.com 
+udemy.com
+bootstrap carousel example
+
+
+
 

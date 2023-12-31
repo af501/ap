@@ -60,6 +60,14 @@ body {
     margin-bottom: 2rem;
     /* padding: 4rem; */
   }
+  
+  .generic /*section*/
+  {
+	  margin-top: 2rem;
+	  margin-bottom: 2rem;
+      padding-top: 2rem; 
+  }
+  
   /* RESPONSIVE CSS
   -------------------------------------------------- */
   

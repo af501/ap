@@ -16,10 +16,14 @@ body {
     font-weight: bold;
   }
   
+  #navbarCollapse {
+    margin-right: 3rem;
+  }
    
   .logo {
     font-size: 2rem;
     vertical-align:middle;
+    margin-left: 16px;
   }
 
 
@@ -37,8 +41,8 @@ body {
   }
   
 
-  #something {
-    background-color: #FBF9F1;
+  #process {
+    /*background-color: #FBF9F1;*/
     margin-top: 2rem;
     margin-bottom: 2rem;
     /* padding: 4rem; */

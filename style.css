@@ -47,13 +47,13 @@ body {
     background-color: #FBF9F1;
     margin-top: 2rem;
     margin-bottom: 2rem;
-    padding: 4rem;
+    /* padding: 4rem; */
   }
 
-  #something {
+  #help {
     margin-top: 2rem;
     margin-bottom: 2rem;
-    padding: 4rem;
+    /* padding: 4rem; */
   }
   /* RESPONSIVE CSS
   -------------------------------------------------- */

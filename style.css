@@ -37,7 +37,7 @@ body {
 
   
   #mission {
-    padding: 4rem;
+    padding: 3rem 3rem 3rem 3rem;
     margin-bottom: 2rem;
     background-color: #AAD7D9;
   }
@@ -59,8 +59,11 @@ body {
   -------------------------------------------------- */
   
   @media (min-width: 40em) {
-    /* Bump up size of carousel content */
   
+  #mission {
+    padding-left: 1rem;
+	padding-right: 1rem;
+  }
     .featurette-heading {
       font-size: 50px;
     }

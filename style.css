@@ -21,14 +21,8 @@ body {
     font-size: 2rem;
     vertical-align:middle;
   }
-  /* Featurettes
-  ------------------------- */
-  
-  .featurette-divider {
-    margin: 3rem 0; /* Space out the Bootstrap <hr> more */
-  }
-  
-  /* Thin out the marketing headings */
+
+
   .heading {
     font-size: 3rem;
     text-align: center;
@@ -37,7 +31,8 @@ body {
 
   
   #mission {
-    padding: 3rem 3rem 3rem 3rem;
+    padding-top: 3rem;
+	padding-bottom: 3rem;
     margin-bottom: 2rem;
     background-color: #AAD7D9;
   }
@@ -60,10 +55,6 @@ body {
   
   @media (min-width: 40em) {
   
-  #mission {
-    padding-left: 1rem;
-	padding-right: 1rem;
-  }
     .featurette-heading {
       font-size: 50px;
     }
